@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WaterControlSystem</string>
+    <string name="connection_status">Connection Status:</string>
+    <string name="water_control_system_monitor">WATER CONTROL SYSTEM MONITOR</string>
+    <string name="flow_volume">FLOW VOLUME</string>
+    <string name="flow_rate">FLOW RATE</string>
+    <string name="water_level">WATER LEVEL</string>
+    <string name="motor_control">MOTOR CONTROL</string>
+    <string name="connect">CONNECT</string>
+    <string name="water_control_system">WATER CONTROL SYSTEM</string>
+    <string name="water_level_control">WATER LEVEL CONTROL</string>
+    <string name="current">Current:</string>
+    <string name="desired">Desired:</string>
+    <string name="flow_volume_control">FLOW VOLUME CONTROL</string>
+    <string name="flow_rate_control">FLOW RATE CONTROL</string>
+    <string name="disconnected">DISCONNECTED</string>
+</resources>

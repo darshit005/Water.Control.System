@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#121212</color>
+    <color name="cardBackground">#1E1E1E</color>
+    <color name="accentColor">#6200EE</color>
+    <color name="accentColorLight">#BB86FC</color>
+    <color name="accentColorSecondary">#03DAC6</color>
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#B3B3B3</color>
+    <color name="divider">#2D2D2D</color>
+    <color name="connected">#4CAF50</color>
+    <color name="disconnected">#F44336</color>
+    <color name="buttonWarning">#CF6679</color>
+    <color name="cardShadow">#80000000</color>
+    <color name="elevated_surface">#262626</color>
+</resources>
